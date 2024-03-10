@@ -1,0 +1,14 @@
+.row-info{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+p{
+    padding-left: 7px;
+    /*display: flex;
+    justify-content: flex-end;*/
+}
+small{
+    display: flex;
+    justify-content: flex-end;
+}
